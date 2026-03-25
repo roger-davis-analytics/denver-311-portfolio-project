@@ -22,6 +22,8 @@ The workbook includes:
 
 ## 📸 Dashboard Preview
 
+Below is a preview of the interactive dashboard included in the workbook:
+
 ![Dashboard Screenshot](Screenshot%202026-03-25%20144705.png)
 
 ---
@@ -42,25 +44,47 @@ This separation keeps the model clean, predictable, and easy to maintain.
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## 🧠 Skills Demonstrated
 
-- **Semantic naming architecture**  
-  Clean, readable names that eliminate cell‑based formulas on the dashboard.
+- **Data Cleaning & Curation**  
+  Built a clean, analysis‑ready slice from a larger operational dataset.
 
-- **Dynamic arrays & modern Excel engine**  
-  Efficient, spill‑based logic with no helper columns or legacy formulas.
+- **Semantic Naming Architecture**  
+  Replaced cell‑based formulas with readable, maintainable named logic.
 
-- **Data cleaning & transformation**  
-  Curated dataset built from a larger operational table.
+- **Dynamic Arrays & Modern Excel Engine**  
+  Spill‑based transformations with no helper columns or legacy constructs.
 
-- **Dashboard design**  
-  Dynamic charts, slicer‑driven metrics, and a clean visual layout.
+- **Dashboard Design**  
+  Interactive charts, slicers, and KPIs built on top of a stable semantic layer.
 
-- **Documentation discipline**  
-  Internal README sheet, QA notes, and a clear modeling narrative.
+- **Documentation Discipline**  
+  Internal README, QA notes, and a clear modeling narrative.
 
-- **Professional workbook structure**  
+- **Professional Workbook Structure**  
   Intentional tab order, color coding, and zero stray formulas or ghost names.
+
+---
+
+## 🧭 Modeling Approach
+
+The focus of this project is not the complexity of the dataset, but the
+clarity of the modeling architecture. The workbook is designed to be:
+
+- transparent  
+- maintainable  
+- semantically structured  
+- free of hidden logic  
+
+The goal is to demonstrate how a clean Excel model can support analysis
+without relying on macros, VBA, or external tools.
+
+---
+
+## 🌐 Data Source
+
+This project uses publicly available 311 service request data from the  
+City and County of Denver Open Data Catalog.
 
 ---
 
@@ -76,12 +100,6 @@ Additional documentation or screenshots may be added as the project evolves.
 
 ---
 
-## 📥 Data Source
-
-This project uses publicly available 311 service request data from the City and County of Denver’s open data portal.
-
----
-
 ## 🧭 How to Use the Workbook
 
 1. Open the Excel file.  
@@ -89,16 +107,6 @@ This project uses publicly available 311 service request data from the City and 
 3. Explore the dashboard on the `Visuals` sheet.  
 4. Use slicers to filter by agency, status, and date window.  
 5. Review the `Documentation` sheet for methodology and QA notes.
-
----
-
-## 📝 Notes
-
-This project is part of a growing portfolio of analytics work, including upcoming projects such as:
-
-- S&P 500 analytics  
-- AI Index modeling  
-- Additional Excel‑based dashboards and data workflows  
 
 ---
 
