@@ -20,6 +20,12 @@ The workbook includes:
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](Screenshot%202026-03-25%20144705.png)
+
+---
+
 ## 🧱 Workbook Architecture
 
 The project follows a layered, production‑style structure:
